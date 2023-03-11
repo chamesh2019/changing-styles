@@ -33,4 +33,4 @@ setInterval(() => {
   for(i = 0; i < shape.length; i++) {
     shape[i].style.borderRadius = configuration.round;
 }
-}, 1500)
+}, 5000)
